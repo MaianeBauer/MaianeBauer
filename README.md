@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Maiane%20Bauer&reversal=true&textBg=false&fontColor=preta&animation=twinkling"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff1f52&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Maiane+Bauer;I'm+29+years+old;I+am+from+Caxias+do+Sul,+RS;I+study+Computer+Scienceand+systems+development+FrontEnd+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff1f52&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Maiane+Bauer;I'm+29+years+old;I+am+from+Caxias+do+Sul,+RS;I+study+Computer+Science+and+systems+development+FrontEnd+at+Senac;Be+Welcome!+:%39)](https://git.io/typing-svg)
 
 
 <div align="center">  
