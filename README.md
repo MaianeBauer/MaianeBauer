@@ -1,7 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Maiane%20Bauer&reversal=true&textBg=false&fontColor=preta&animation=twinkling"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff1f52&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Maiane+Bauer;I'm+29+years+old;I+am+from+Caxias+do+Sul,+RS;I+study+Computer+Science+and+systems+development+FrontEnd+at+Senac;Be+Welcome!+:%39)](https://git.io/typing-svg)
-
+  -<div align="end">  
+  ![Imagem_do_WhatsApp_de_2024-07-06_à_s__17 26 16_e174d927-removebg-preview](https://github.com/MaianeBauer/MaianeBauer/assets/142107409/c165d6ec-9c95-4c86-a993-e66e868b6b94)
+</div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MaianeBauer&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Maiane Bauer github stats" /> 
@@ -17,3 +19,5 @@
 <div align="center">  
 <a href="https://www.instagram.com/maianebauer/?igsh=MTRkM211eGV0dnQxZA%3D%3D/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
+
+
